@@ -23,8 +23,8 @@ This challenge is open ended you can develop your own solutions. That said try a
 
 - D3
 - SVG
-- scales 
-- axis 
+- scales
+- axis
 
 ### Challenge 1
 
